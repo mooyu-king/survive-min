@@ -1,0 +1,2 @@
+:HL["/_next/static/css/c4e267aa80c06df1.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"rwby-rise-of-the-white-fang","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"g6_8aI5RKzaqe83pW2afG"}
