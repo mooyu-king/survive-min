@@ -1,2 +1,3 @@
-:HL["/_next/static/chunks/03h1-3a9yw74j.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"frankies-fun-house","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"NHit54cnQ4Zuey3YvvYsv"}
+:HL["/_next/static/chunks/0dpenwim7m621.css","style"]
+:HL["/_next/static/chunks/03q_8_wfnatqa.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"frankies-fun-house","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"V6R-4t2nueFIDtygtyV23"}
