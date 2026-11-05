@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/0dpenwim7m621.css","style"]
 :HL["/_next/static/chunks/03q_8_wfnatqa.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"creepydates-chapter-3","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5edY3SOzJi3b4G770nO_8"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"creepydates-chapter-3","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"4RZUZs4l1zgEyzgCja9yK"}
