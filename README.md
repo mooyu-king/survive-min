@@ -6,11 +6,11 @@ SURVIVE MIN is a browser horror visual novel built around proximity, dialogue, a
 
 ## Play SURVIVE MIN Online
 
-- **Official website:** [https://survive-min.com/](https://survive-min.com/)
+- **Website:** [https://survive-min.com/](https://survive-min.com/)
 - **Launch the game:** <a href="https://survive-min.com/" target="_blank" rel="noopener">Play SURVIVE MIN online</a>
 - **Style:** Psychological horror, visual novel choices, unsettling romance, browser play, routes, and endings
 
-The live website is the recommended destination. This repository contains the generated static export used by the deployment platform. The public site provides the intended dark interface, fullscreen game player, shared game cards, Play More navigation, screenshots, videos, long-form introduction, and FAQ content.
+The live website is the recommended destination. The public site provides the intended dark interface, fullscreen game player, shared game cards, Play More navigation, screenshots, videos, long-form introduction, and FAQ content.
 
 ## Horror Built From Attention
 
@@ -24,15 +24,13 @@ Players are encouraged to read slowly and consider what each response communicat
 
 ![SURVIVE MIN close conversation scene](./survive-min-2.webp)
 
-The site places screenshots inside relevant sections rather than treating them as decoration at the bottom of the page. Images show the visual novel interface, character framing, dark backgrounds, and moments where a quiet conversation begins to feel unsafe. Descriptive alt text explains each image naturally for accessibility and search discovery. Stable local image paths keep the static export easy to cache and prevent core artwork from depending on remote dynamic URLs.
+The site places screenshots inside relevant sections rather than treating them as decoration at the bottom of the page. Images show the visual novel interface, character framing, dark backgrounds, and moments where a quiet conversation begins to feel unsafe. Descriptive alt text explains each image naturally for accessibility and search discovery. The images offer a useful preview of the atmosphere before you begin playing.
 
 Route guidance remains spoiler-conscious. The introduction explains how to observe emotional turning points and compare consistent patterns without publishing a complete answer list. Players can record which choices made Min warmer, colder, more dependent, or more suspicious, then alter one pattern during the next run. This creates a useful method for exploring endings while preserving the experience of discovering what each branch means.
 
 ## A Growing Horror Collection
 
 The website also hosts related browser games with different kinds of pressure. Some stories use domestic spaces, suspicious messages, public game shows, circus performers, or security systems. Others introduce movement and survival mechanics. Shared cards beneath every game frame keep the catalog connected, while each inner page preserves the artwork, content, videos, and writing appropriate to its own game.
-
-The top Play More menu is maintained separately from external footer links. Internal game routes open in the current tab, while selected Dofollow external links point visitors toward related official sites. This distinction keeps navigation predictable and avoids accidentally changing the site's existing external-link strategy when a new game page is added.
 
 ## Home Is Where He Is
 
@@ -52,6 +50,12 @@ Desktop fullscreen offers the clearest text and character art, but mobile visito
 
 Mature-content notes are included when games feature coercion, obsessive affection, violence, blood, disturbing imagery, or other intense themes. Horror is most effective when the player chooses the discomfort, so the site provides enough context to make an informed decision before pressing Play.
 
-## Static Deployment
+## Plan Your First Visit
 
-This repository is generated through the Next.js static export workflow. `npm run build-preserve-git` protects `out/.git`, runs the production build, restores the deployment repository, ensures the `main` branch and GitHub origin are configured, and copies this README template into `out/`. Direct edits to generated files may be lost during the next build; source changes belong in the main application. For the latest game pages and complete experience, visit [survive-min.com](https://survive-min.com/).
+Start with the game's introduction and content notes before opening the player. Screenshots offer a quick impression of the artwork and reading interface, while the accompanying guide explains the premise without requiring you to follow a complete walkthrough. Choose a title because its mood interests you, rather than assuming that every game in the collection offers the same controls, length, or type of story.
+
+For a first session, leave enough time to read the opening carefully. If the game presents choices, notice how their tone differs before selecting a response. If it follows a linear story, enjoy the pacing without expecting every conversation to branch. Individual games have their own rules, and a related title is not necessarily a sequel or an experience by the same creator.
+
+Keep the guide page available when you need a reminder about browser controls. Fullscreen can make dialogue easier to read, but it does not change the game's compatibility requirements. Sound may need a click before it starts, and a slow connection can delay the initial loading screen. If something fails, check the page's help rather than assuming your progress has been saved.
+
+When you are ready for another experience, use the shared game cards or navigation menu to browse a different title. Read its own description and content guidance before beginning. Sharing the page address gives a friend the same starting point without implying that your choices, progress, or browser saves will transfer to their device.
