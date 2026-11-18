@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/02lktdf~f~dtt.css","style"]
 :HL["/_next/static/chunks/0vnm~xjgk-ezw.css","style"]
 :HL["/_next/static/chunks/01hrgjipca1f-.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"odio-el-chocolate","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"t1oXJF8o-rL7iQ-TUKM4R"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"odio-el-chocolate","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"_uwsvefnLtYLQ4aqrbpoe"}
